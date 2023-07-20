@@ -12,7 +12,6 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -41,14 +40,6 @@
 ### Key Features <a name="key-features"></a>
 
 - [x] **Basic ruby code**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-<!-- - [Live Project Demo]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,6 +73,12 @@ decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . .
 - GitHub: [Nasirkhan294](https://github.com/Nasirkhan294)
 - Twitter: [NasirMa35888225](https://twitter.com/NasirMa35888225)
 - LinkedIn: [nasirmahd](https://www.linkedin.com/in/nasirmahd/)
+
+👤 **Biftu Girma**
+
+- GitHub: [@Bifabig](https://github.com/Bifabig)
+- Twitter: [@biftu94](https://twitter.com/biftu94)
+- LinkedIn: [Biftu Girma](https://www.linkedin.com/in/biftu-girma/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
